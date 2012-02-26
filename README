@@ -1,5 +1,5 @@
 Simple perl script that formats the output from twidge
-(https://github.com/jgoerzen/twidge). Use it with twidge's -long option.
+(https://github.com/jgoerzen/twidge). Use it with twidge's --long option.
 
 Example of usage:
 $ twidge lsrecent -l | format_twidge.pl
